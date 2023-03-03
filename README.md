@@ -11,8 +11,16 @@ The NOREA Ransomware   Framework is published as an open source tool because we 
 
 From the authors,
 Sandeep Gangaram Panday 
+
 Leon Zwakenberg
 
+Framework maintenance
+
+The NOREA Ransomware Framework presented in the next chapter is groundbreaking because it is the first of its kind to be created and freely disseminated. However, we see it as just one step in the ongoing journey to combat this global cyber threat. The control framework addresses the current state of ransomware and world affairs as best as possible. Yet, we acknowledge that no control framework can ever be considered complete or finished. Technology keeps evolving. Alas, cyberattack tactics and techniques do too.
+
+Because our aim is to maintain and continuously enhance this framework, we are publishing it as an open source tool. We invite security experts, IT professionals, and anyone else interested in or affected by ransomware to share experiences, ideas, and strategies for how organizations can better prevent attacks and protect themselves.
+
+While a condensed table of our framework is embedded in this document, the full version has been made available via GitHub. We formatted the file in Excel because it is user-friendly and easy to edit. Take a look, download the file, and contribute to keeping it relevant and rigorous. We welcome your comments and feedback.
 
 
 **License**
