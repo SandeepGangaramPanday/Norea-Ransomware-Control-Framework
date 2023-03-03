@@ -10,6 +10,7 @@ To contextualize the technological and social climates in which ransomware has t
 The NOREA Ransomware   Framework is published as an open source tool because we want to keep improving the selection and application of controls. Writing this in early 2023, we want to enable the framework to evolve with the same efficiency and sophistication that we’re observing of waves of ransomware attacks. We therefore invite interaction, shared experiences, and feedback from interested parties or individuals, particularly those from the vital industries, as we all aim to keep ransomware in control. 
 
 From the authors,
+
 Sandeep Gangaram Panday 
 
 Leon Zwakenberg
