@@ -16,6 +16,8 @@ Sandeep Gangaram Panday
 Leon Zwakenberg
 
 
+
+
 **Framework maintenance**
 
 The NOREA Ransomware Framework presented in the next chapter is groundbreaking because it is the first of its kind to be created and freely disseminated. However, we see it as just one step in the ongoing journey to combat this global cyber threat. The control framework addresses the current state of ransomware and world affairs as best as possible. Yet, we acknowledge that no control framework can ever be considered complete or finished. Technology keeps evolving. Alas, cyberattack tactics and techniques do too.
